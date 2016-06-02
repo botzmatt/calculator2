@@ -1,0 +1,33 @@
+.addition {
+  color: white;
+  background-color: blue;
+  text-align: center;
+}
+
+.subtraction {
+  color: white;
+  background-color: green;
+  text-align: center;
+}
+
+.multiplication {
+  color: white;
+  background-color: purple;
+  text-align: center;
+}
+
+.division {
+  color: white;
+  background-color: #527b94;
+  text-align: center;
+}
+
+.result{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.results{
+  text-align: center;
+  padding: 3px;
+}
