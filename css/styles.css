@@ -1,18 +1,18 @@
 .addition {
   color: white;
-  background-color: blue;
+  background-color: #527b94;
   text-align: center;
 }
 
 .subtraction {
   color: white;
-  background-color: green;
+  background-color: #527b94;
   text-align: center;
 }
 
 .multiplication {
   color: white;
-  background-color: purple;
+  background-color: #527b94;
   text-align: center;
 }
 
@@ -23,11 +23,17 @@
 }
 
 .result{
-  text-align: center;
   text-decoration: underline;
 }
 
 .results{
-  text-align: center;
   padding: 3px;
+}
+
+.top{
+  margin-left: 100px;
+}
+
+.overall{
+  margin-left: 45px;
 }
